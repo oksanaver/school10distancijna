@@ -1,0 +1,39 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.AppOne {
+  border-color: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.topContent {
+  margin-bottom: 40px;
+  font-size: 100%;
+  text-align: center;
+  color: #003B46;
+}
+
+.friend {
+  color: #4649ed;
+  text-align: center;
+  text-align: start;
+  font-style: italic;
+  text-decoration: underline;
+  padding: 20px 0;
+  text-shadow: rgb(231, 169, 206) 3px 0 10px;
+}
+
+@media(max-width: 800px) {
+	.AppOne {
+    padding: 0;
+  }
+}

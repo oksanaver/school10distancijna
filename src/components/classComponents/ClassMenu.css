@@ -1,0 +1,32 @@
+.layoutMenu {
+  display: flex;
+  padding: 10px;
+}
+
+.flex {
+  padding: 0 10px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.classTitle {
+  color: #003B46;
+  padding-left: 10px;
+}
+
+
+@media(max-width: 880px) {
+  .layoutMenu {
+    flex-direction: column;
+    justify-content: center;
+  }
+  .flex {
+    padding: 10px 3px;
+  }
+  .buttonShrink {
+    display: flex;
+    flex-direction: column;
+  }
+  
+}

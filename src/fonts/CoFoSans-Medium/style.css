@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CoFo Sans';
+    src: local('CoFo Sans Medium'), local('CoFo-Sans-Medium'),
+        url('CoFoSans-Medium.woff2') format('woff2'),
+        url('CoFoSans-Medium.woff') format('woff'),
+        url('CoFoSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+  }

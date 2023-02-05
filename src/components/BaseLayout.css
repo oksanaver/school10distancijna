@@ -1,0 +1,57 @@
+@font-face {
+  font-family: 'CoFo Sans';
+  src: local('CoFo Sans'),
+      url('../fonts/CoFoSans-Medium/CoFoSans-Medium.woff2') format('woff2'),
+      url('../fonts/CoFoSans-Medium/CoFoSans-Medium.woff') format('woff'),
+      url('../fonts/CoFoSans-Medium/CoFoSans-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+html, 
+body {
+    height: 100%;
+    margin: 0;
+    background: linear-gradient(rgba(226, 232, 228, 0.7),rgba(226, 232, 228, 0.7)),
+    url("../image/background.jpg") center/cover;
+}
+
+.layout {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header {
+  padding-top: 15px;
+    min-height: 84px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(rgba(110, 181, 192, 0.5),rgba(110, 181, 192, 0.9));
+}
+
+.header img {
+  max-width: 100px;
+}
+
+.discr {
+  max-width: 800px;
+  max-height: 150px;
+  font-family: 'CoFo Sans', sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 25px;
+  color: #003B46;
+  text-align: center;
+}
+
+@media(max-width: 500px) {
+  .header img {
+    max-width: 30px;
+  }
+  .header {
+    flex-direction: column;
+  }
+}
