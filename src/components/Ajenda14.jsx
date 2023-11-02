@@ -14,12 +14,12 @@ export default function Ajenda14() {
       <CardMedia
         component="img"
         alt=""
-        image="/ajenda/1-4/2A.png"
+        image="/ajenda/1-4/1B.png"
       />
       <CardMedia
         component="img"
         alt=""
-        image="/ajenda/1-4/2B.png"
+        image="/ajenda/1-4/2A.png"
       />
       <CardMedia
         component="img"

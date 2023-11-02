@@ -39,7 +39,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTL-adaB3Ogy3ufJjEJd8vbuTROcLaQpx9RY5UYZD_8_enSV1j-20K9IB8IvntJNv0agccdwxIij-Fm/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQyPJeW3hhTvX0C-D33zosj3doqYrIIQy8rweqlEjmC0ezwQbHFR5KvDkV_SgqVOA/pubhtml?gid=219179610&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -53,7 +53,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRaagDTI3tYQUIDj0aTHQLzm0crA5RhF0D6oUBj2TflG_HkfpCx-9kIMcVgQfXq0OpOHUfuUC6cdG2L/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQb0q25E4bUkHYVTO6HVYxmzbGsgI2UM1EnUOSBsagY2oR-4E4AZVH8AIP69uX6sw/pubhtml?gid=518234092&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -67,7 +67,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9tTqliTqdCQHDc7hflyDAWK1X9oX14l7qKuNuWhmexIZeIWaSkKBj4gjWQUIqq2az8GZPKWbS4JQQ/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTUGb5Y-lZDwgYsJ10V9lInZEwN-AC3VJfQE86GPyvuoY9G7L-YP52D0FBVAJHeEA/pubhtml?gid=1130114946&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -81,7 +81,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR9tTqliTqdCQHDc7hflyDAWK1X9oX14l7qKuNuWhmexIZeIWaSkKBj4gjWQUIqq2az8GZPKWbS4JQQ/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwJG2SU0IaOosxMinZ9VRFLgUtEVSXmVMF4fBh-fjt0XfKJAKVufGJUU33hH0y4A/pubhtml?gid=631912576&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -95,7 +95,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTvzlO39nyniqfhGpeQJwMbvB-FbBH1Z8-20ZZZL-DdaM6fRcTD6HG2ivyAVV3-In95zO-6gvqsAtTV/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT5WbhOtdI54pSYqOOyE4Ju8JFa3D2Snv-2Fxq2fPRu2qkKV6QYSVXJIGuOkOkc9Q/pubhtml?gid=2056597891&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -109,7 +109,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYsUG8owUa72tky7mtau6N_QMD9INugQV9qPAm_isNmtInLvxWFI8voPRDfQ6y7KA0pgJR-ijysmyk/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyCuEuXd1tw7Lv3N0BHHezl6ccKGrv4ZLf8Y8gzAqN8yNvTJzSrpRmNJckD_Rr7w/pubhtml?gid=185971681&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -123,7 +123,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSlpYtjHbz7kjKIbnf3uchGp3xMmqy4dptyBp0GnLe6A-4KqE2ZJSmmKU5b3T3E9Ka_oJq8JKjjnhZo/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR6o0X9lQndjRER1_KVuEibseMdbDV_jGXPdtn1QP6qlUvNSinZ5lAU8QuHOHkl7Q/pubhtml?gid=1329156938&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -137,7 +137,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTLZIOGNx6nbFsid6yHk4WtOdswSqQFYUy4D51e6MB_zDxkP_8XIlBFrWTzryTx2bQu669K7bAN7GuV/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQYVDT6tvWEqcSzfBeycFGQ1OEfGV2_MSgTCoMjb4kX-3XP_IMI8tXDYcBnmVRG3g/pubhtml?gid=1862974257&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -151,7 +151,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTwedIydLPUf3e4d2aJQN51zPQum9V45bh4e2Bhh4YETmAUNA2h0RsuVOWHbCfHrOLKCTkcfHZQVzkG/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSqyeZA0k6k2ecIfH6Nk4AWhMuPtWETh6ljXVMNDDoZkkoPM3GfYE8SJH5m0flgqw/pubhtml?gid=350235849&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -165,21 +165,35 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRO7-eIrI3S51jT-VHVG8kqaqUwDjP_YbhkY5Af8i6as0OJBKB-pGJH6YA8li1cbdXcifTouhNf1OfF/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSOTDB_2xuqX6_9113I7XDfxPoUM3p2tb1MFPIOK8xhFUBdxAvEZ9GR1CdNrkseZg/pubhtml?gid=270523528&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
     <Card sx={{ maxWidth: 220 }}>
       <CardContent>
         <Typography gutterBottom variant="h4" component="div">
-        Інформатика
+        Інформатика 1 гр.
         </Typography>
         <Typography variant="body2" color="text.secondary">
         Теми, підручники та матеріали
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQZnqAJPdhWkaoF9yh4pBREqsj1AoeGwxWnIvyak_OjwNF24oThaRbokjhWFfYIzpLs5kq_sIiVEpVR/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTH-iHhprzFYcgeZMCr0gELuGrdOdbNqxSVMPAwvSAVL7oHx9oa5MZCmvLjgzv3bw/pubhtml?gid=861811868&single=true">Перейти</Button>
+      </CardActions>
+    </Card>
+
+    <Card sx={{ maxWidth: 220 }}>
+      <CardContent>
+        <Typography gutterBottom variant="h4" component="div">
+        Інформатика 2 гр.
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+        Теми, підручники та матеріали
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQX6oZtc2hs10lQ7xx59fonBU1qf3s6X_n5Mln_V4ylp9r12fchAnBUZznTVNq2qQ/pubhtml?gid=1282152776&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -193,7 +207,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSp_T84AbuJFZ84ktk6464CB3F4WprarYBRuKbb_cRiHKFOoiPRVqXNSO2wogZVMnl3MDesyxLVWTwJ/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRf0OsRgJz7kPjAqkHbcKEwRcVgAW5NSZXKU7WiOlT1XwmYWutDmzmuY5rLZkNefg/pubhtml?gid=1819224279&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -207,7 +221,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRXcqhwXETr0jjfswC-6YUVHe6VU8RwIkMZRPM7CLxqehVKsUKKwUFlslu5RM2sWxodcglaI0BgpjaV/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRBJuk_WDvLXi8xiDFmZIXa3enHFCijT0wIvxwlNStsSDsC467k9FtEqwr3S8Wvw/pubhtml?gid=675534791&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -221,7 +235,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSAn9EL0hfAtVEMJu0kn4sQL4aAlXjRUIrIVnsxrptzm5PAMw5YSbMOArRG76FWW-zgm607-4IkhfhP/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSaqXlV1VaE6nmoTz9b4FYgMMWXBS7-3vTQkbi9GLjM7IN2grntoLEUiiIo_i04fQ/pubhtml?gid=1431110687&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -235,7 +249,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR2wJBHLRYuoITBKVj16tNBGq3NNLufLTlf1DJzJNK27qvFg2R4CIvlLVJxI9melLN0ojBquCA7v3Rf/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4qBpZEoAtbucoHa0hnTu2-6qHi1MjUmddWixbslshg2y2C83m620bkfq6KCGIyw/pubhtml?gid=1053630282&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -249,7 +263,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpqMjz_gURMCBh_BsuxqsCGPepxHIPQTUBLbBWvxaYa86phKg3yDIvt1GMFu_q2Z4f5iYlI-7FSBl_/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTQo-6nECZySJwN7HaCFpY2EodSDb1iWPmLf0JMRfBlnqJQIlopm87HLyW2arffYUc8LU89-aPkXhIQ/pubhtml?gid=0&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -263,7 +277,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vThc8NmDOfWIm3GH3uSOLy1JZDnbJBKTZXsqOAgF9A4bXSanW405Vw9HQffqysAFMxc5PZBRogq-g8y/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRyzjZnaavboJnxcU0BTQdzOq5wh7P_bQCHenJUJTeWKDIXqNe-oEfWg0QhNx8EcQ/pubhtml?gid=1542298494&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -277,21 +291,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZdn0cd0enMzPzTGxH4V2toK1RMCyuON2WuYdX0hBT_TOTaN15WcOiBC5GRk8zB9Yn0aL338x55ZL1/pubhtml?gid=0&single=true">Перейти</Button>
-      </CardActions>
-    </Card>
-
-    <Card sx={{ maxWidth: 220 }}>
-      <CardContent>
-        <Typography gutterBottom variant="h4" component="div">
-        Технології
-        </Typography>
-        <Typography variant="body2" color="text.secondary">
-        Теми, підручники та матеріали
-        </Typography>
-      </CardContent>
-      <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTEyCXVW3pLM-cnEHyq3p0irTKCKCp0ITYpkVz1SoID2OK0vjZt4OB1rhStBswgsF91Z0Nc28yg9LGL/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3-C-zTi48Mv7SQ2wobbpdKz3Yp3UqbpnUxH1zHRc4jxcMfJuiHFmiufR73NR4MA/pubhtml?gid=1334967307&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -305,7 +305,21 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQcVpnj7dv3pBU4aCuvGW6WMZkCUgAPYaNhtYzLe1AMh7rfecYFA5TPDPIAOAaqJ1MfUSguVDwo73sd/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSUbicdkGBxjPjr7glgHmbj2vV-YhQQsLzVb2FBxO32o6B_r7z7zHweRwP7hhVYBs0-WG934zbYybKi/pubhtml?gid=0&single=true">Перейти</Button>
+      </CardActions>
+    </Card>
+
+    <Card sx={{ maxWidth: 220 }}>
+      <CardContent>
+        <Typography gutterBottom variant="h4" component="div">
+        Година спілкування
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+        Теми, підручники та матеріали
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTaLMrJkRJIrNSNjtDJ7xYvO0uMH6LUiQMBtkp03i5kxg0ewPDFBw5Dp4ygRD9Ocw/pubhtml?gid=1664875308&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -314,7 +328,6 @@ function Class10() {
           10 "Б" клас
         </Typography>
       <div className='flex'>
-
       <Card sx={{ maxWidth: 220 }}>
       <CardContent>
         <Typography gutterBottom variant="h4" component="div">
@@ -325,7 +338,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ6cub7fThRfMcA0BY8zbrChKE0uqhPjcU0Jz78NUdlEaSiGzGx6tTrg8l1rJc4S4hEsgVpi1yn0IZ1/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSq2Xb3vcvcjR0oRW_KNLUWWJ0NvYdVxBM55WAkbX9V7Ak7TW_F-BXSk4cSv6BZ1Q/pubhtml?gid=219179610&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -339,7 +352,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQqsP-TYf5pJey1e2fQofpxLJEOcnDAQXdLa9atbSWMfqwP1qnX8esS_OPAqFSO8NsaZ0ywLCWVsMr7/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vScbPLrNt1EmDF6bgaN7lxkglLTuNWuvyDg0ejS4ZzlNJmUTrKwlzZ_BIoVurplAg/pubhtml?gid=518234092&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -353,7 +366,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR1Dxw_643yknXcr6yrVUCSl3sei6qW9mvr_ClsZfAt_v0lQ3N_f_pjvpYcV7RoQqsno-DC7-3sfhv6/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vToIms_nEXJcP3Tvo8CjimYaUID3BO8XzEBpSfUH7e29Z7giD8rwFf6in-EEHvTjA/pubhtml?gid=1130114946&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -367,7 +380,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vShSfnIvRZCSuUf2F2hC4oxnx3LBEbCBg_v_KGmmggv7HynteTL_sLxcXgo5oVP6opaLBcYE1GRcTtG/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSpESEPM_Z16HhyMw644bp1wDrw-P0_MKLgfSzxwK4D32yykjV0eyltN0YF0lvg3A/pubhtml?gid=631912576&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -381,7 +394,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTWo4gJeMfw7Att57NK2lpwJMpsJQnTfCmlQYZWu0aj13HwT4cLQX8Vg1DHLkfIDf-nfvio1_z4TkH0/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS3AvbiVKmB4X93geaLMJt323AXKN5gklgi6aTGpgMro0JVwYwxKEmBnNHy2vz-uw/pubhtml?gid=2056597891&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -395,7 +408,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRkz-HER4vtEy3LmXlp_lwW305g-XP3Mvz3sVz8Kzvwy5XoaLlkWWJsodkqpTl6JzG6LZMnuNV1kp_1/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRrU43p73BcM4W-bp6tpPb-Aoaz9GJhKpPcdxBLvL4-2oHuDp1LSna3cazbuwJueg/pubhtml?gid=185971681&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -409,7 +422,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9Sqcoj2j1Z8RlfNFn2Cf5H3NwovA7pqeNC-uFFlmrj4h35z1YRL1LC_0lMq6BdrFFtti6CpUnT-bJ/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9s_-5_YF6Vp_ht7LpAw-pnP-lMe35GjgKw2LcwqfSMfViRpNyPK8EqIi3tM4rcQ/pubhtml?gid=1329156938&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -423,7 +436,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQHCRTK6efEVgHrty_PD149ZeydYYIw0DnyxLhoYNlw3Q9LZTlmtcHbawNWlWM2EbD4bNPXFqbYCew-/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtdg3OE_4gqJZLEAm5Pcv51c3lsNKrW6XuhoG-VZRnIVrNJWuYx-oi70S14rCqcw/pubhtml?gid=1862974257&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -437,7 +450,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ96xFjqjykhn8fqi5uxXPIEENUdGuJ3fROpIhO7JegfHRWdueTDH1S5fpsPujLz2ABesRs7ayk9ANt/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQWxGffXBxJVgmblYfAwdG522mnWhYFDn4pva-U0AoOcvwqUk0R3qHW3MjgqLXKqQ/pubhtml?gid=350235849&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -451,21 +464,35 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT96xWZaHEFtdqyVkyBDgkI_dgZBYXUX5VDD43zpfQDsyUBwpoD1NA5-MVKBPT8XgzKogodNsod-yYL/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSkcAWEaN1L26MLF0T6DxZaon5IZE_Mf36O_vxVAOsJoBqKgCcbBTv8r8PDAxynBA/pubhtml?gid=270523528&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
     <Card sx={{ maxWidth: 220 }}>
       <CardContent>
         <Typography gutterBottom variant="h4" component="div">
-        Інформатика
+        Інформатика 1 гр.
         </Typography>
         <Typography variant="body2" color="text.secondary">
         Теми, підручники та матеріали
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRGMUyQ_5hyYCdH_iNXSaQubfgu9nhbB8XeKRaKkNg9WOUtBHOaJGBs3WnsBAcEl4ggtOYQhZoO9ql9/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRZhk8TGjpOqRpZxv5z8Ast940pzZSAjHnUk6HMdwJTbo6tu228kcOlE4Glu8QpJg/pubhtml?gid=861811868&single=true">Перейти</Button>
+      </CardActions>
+    </Card>
+
+    <Card sx={{ maxWidth: 220 }}>
+      <CardContent>
+        <Typography gutterBottom variant="h4" component="div">
+        Інформатика 2 гр.
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+        Теми, підручники та матеріали
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTP3b_ObSPqG5BlUy-8Qd11UXco8PHRy2pT1NZ5ZdUca-1_xnvkWair5nqSbIi9cw/pubhtml?gid=1282152776&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -479,7 +506,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8qNppJHdQBGcal8E3q_xjRA7nRe_uptP1KMKa6QGTciWdY4r_iOnWxpZCsbdeYjdWbWHAnYRd6hTJ/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQSnvQWJBKwDxXFTTobcyKNfMeTHsU1daKbcX37RbGlUmjIRpz-SCQZmIWp6FRChw/pubhtml?gid=1819224279&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -493,7 +520,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQrZ9B1PkRkI27LxrHL4DHliNxcTCSfbk3yiO2niitmwc7Hn6VHMSlRP-Al1XL1VZjl7XQlAfgxjlfQ/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTESekdUDoNNsDbVaFxDFz3J90rSxbZcVQSMmLQMLVxbuBD1OrKE3bfRMCDpAvIIA/pubhtml?gid=675534791&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -507,7 +534,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTuDdTZ7ARts0Y-1ds5SPg7UgYoBIdh--2jZLuvvl1JoQQteWpgzOiR2E2VcxQKwptVF44kxuQklyJp/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ_dj8wMobw4qiwUCUX3DL_4UjobQgzya6J9JU2x-vnLHvAXBnFVT5c8iyDaLSH0g/pubhtml?gid=1431110687&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -521,7 +548,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTZtNq0H24syRFgKY7cToG5OfK3X6K3TYm6_QHBbLFmFB_ASI55W40Rn2EoMdqTvjo4r_wcyJI6UJS6/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9EzdoP8pFmfcFDFNhPlt8f4orX8WGLIEJr95tntgs8p9gzcovV5lw_B-W9ukHXg/pubhtml?gid=1053630282&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -535,7 +562,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSrbsxCO5P8zkfOmaVKzVJ8s-923mIzmtyTjbBZ7SD5YWHBp7XwnqZrq6YOeSNaYgV05SDOEf47y8x-/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRgb3EqbBqLv0h4snPznS4f8hNydDINqhw49EQOBEhLeGE77KBfoBUHRxqzoMyD3Q/pubhtml?gid=1532096047&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -549,7 +576,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeh7Nvxj4ktyM90CB_j9clpfsb1j7QM1J8ZhfM7_OwJ96yp4xdB_4F0uQAnap991M3x77_pcAs-Iml/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTrCA8419vqDT7WJ2muADISXrXWrzyHCxILIy35CmxjC9SikC8Hj8kLj8oYA0Mibw/pubhtml?gid=1542298494&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -563,21 +590,7 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSHpxA2yST581Ca3-5XnYIvmHqrAV9CXMhKt9jz3MpKT06WhG0WAdT6eoTS13SGzbIIA1ChwhzkiPWl/pubhtml?gid=0&single=true">Перейти</Button>
-      </CardActions>
-    </Card>
-
-    <Card sx={{ maxWidth: 220 }}>
-      <CardContent>
-        <Typography gutterBottom variant="h4" component="div">
-        Технології
-        </Typography>
-        <Typography variant="body2" color="text.secondary">
-        Теми, підручники та матеріали
-        </Typography>
-      </CardContent>
-      <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLV5igI129NVM6YbA_jBeMoaQ4hC_WtfcI8Ke4Bw1bBQbM2Q2oOCmuuFrdDejz8czu8K1jzTKJ3ygr/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vR5q4MBab_zVm2pjzhAwi9n54NbkLaim-Alph3wBromNYTIoS93lbDqCDxH4iaQXQ/pubhtml?gid=1334967307&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
@@ -591,9 +604,24 @@ function Class10() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vSvLknbC4mJfx92BqRCdf49bv021eB8Th8M0j3QQGTgu7MBD-y3MIhGg714zghGDZ9dXnAVIyvCPYw2/pubhtml?gid=0&single=true">Перейти</Button>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vThQ9hATt0kSNSK0mO9doEOXJxvORy5pe6egBrQGvT7858w1jHs8SFPT4WfSS2ITg/pubhtml?gid=1838228312&single=true">Перейти</Button>
       </CardActions>
     </Card>
+
+    <Card sx={{ maxWidth: 220 }}>
+      <CardContent>
+        <Typography gutterBottom variant="h4" component="div">
+        Година спілкування
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+        Теми, підручники та матеріали
+        </Typography>
+      </CardContent>
+      <CardActions>
+        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-f2Xzmb58mvx5wH010vtO8mfcEJutcGBpoIXeydO2g2mJbj23yf01gQuEAJUAvQ/pubhtml?gid=1664875308&single=true">Перейти</Button>
+      </CardActions>
+    </Card>
+
     
       </div>
       </div>

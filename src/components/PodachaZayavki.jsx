@@ -31,7 +31,7 @@ function PodachaZayavki() {
 
       </Typography>
       <Typography variant="h6" gutterBottom>
-      <Link href="https://forms.gle/VbaVME8ZYFSkuEGy7" underline="hover" target="_blank">
+      <Link href="https://forms.gle/uWU7FTtjXTvuZY3M6" underline="hover" target="_blank">
       Подати заявку
       </Link>
       </Typography>

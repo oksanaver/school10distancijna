@@ -15,7 +15,7 @@ function Platform() {
     >
       <Box sx={{ width: '100%'}}>
       <Typography variant="h6" gutterBottom>
-      В 2022-2023 навчальному році комунальний  заклад  «Маріупольська  загальноосвітня  школа  І-ІІІ  ступенів  №10  Маріупольської  
+      В 2023-2024 навчальному році комунальний  заклад  «Маріупольська  загальноосвітня  школа  І-ІІІ  ступенів  №10  Маріупольської  
       міської  ради  Донецької  області» працює  на платформі 
       <Link href="https://classroom.google.com/" underline="hover" target="_blank" style={{padding: "10px"}}>
       https://classroom.google.com/
