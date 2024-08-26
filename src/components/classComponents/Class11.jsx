@@ -605,7 +605,7 @@ function Class11() {
         </Typography>
       </CardContent>
       <CardActions>
-        <Button variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRkSWiM5X8udge8WlGBtVizrO7FNAcA1uDq2-iDGlSSd2A-mnGnyeQT0qTlmBpnyw/pubhtml?gid=1179872151&single=true">Перейти</Button>
+        <Button  variant="contained" target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRkSWiM5X8udge8WlGBtVizrO7FNAcA1uDq2-iDGlSSd2A-mnGnyeQT0qTlmBpnyw/pubhtml?gid=1179872151&single=true">Перейти</Button>
       </CardActions>
     </Card>
 
